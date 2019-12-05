@@ -99,7 +99,7 @@ void printVector(const std::vector<T>& c)
 
 int main()
 {
-	std::vector<int> a{1,2,3};
+	std::vector<int> a{1,2,3}; // CHANGE HERE THE DIFFERENT VALUES FOR THE VECTORS
 	std::vector<int> b{1,2,3};
 
 //print a
